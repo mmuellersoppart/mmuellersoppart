@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mmuellersoppart
-- 👀 I’m currently interested in tech addiction, math education, and life trackers.
-- 🧮 Getting back into Euler Project.
+- 👀 I’m currently interested in tech addiction, inequality, climate change, transparency, and math.
 - 🌱 I’m currently learning IOS, graphics, and data analysis.
 
 <!---

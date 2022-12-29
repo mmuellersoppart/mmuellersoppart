@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mmuellersoppart
-- 👀 I’m currently interested in tech addiction, inequality, climate change, transparency, and math.
-- 🌱 I’m currently learning IOS, graphics, and data analysis.
+I like Rust for app development and Julia for math escapades.  
 
 <!---
 mmuellersoppart/mmuellersoppart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
